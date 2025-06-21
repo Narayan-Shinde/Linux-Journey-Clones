@@ -1,2 +1,2 @@
-# Linux-Journey-Clone
+# linux-journey-clone
  
